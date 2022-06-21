@@ -1,0 +1,14 @@
+{
+    "name": "0.1 LabVIEW Installation",
+    "icon": "0.1",
+    "description": "Install LabVIEW",
+    "completed": true,
+    "children": [
+        {
+            "name": "0.2 LabVIEW Basics",
+            "icon": "0.2",
+            "description": "Learning the basics of LabVIEW",
+            "completed": false
+        }
+    ]
+}
